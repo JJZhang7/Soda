@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background: url("https://tylana.files.wordpress.com/2011/07/sodapop.jpg");
+    color: green;
+    font-family: 'Felipa', cursive;
+}
+p {
+    display: none;
+}
+h2 {
+    display: none;
+}
